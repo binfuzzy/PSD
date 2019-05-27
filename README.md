@@ -9,3 +9,5 @@ Programming of Distributed Systems contents':
 6. Distributed algorithms: mutual exclusion, consensus and termination algorithms; fault-tolerant algorithms.
 7. Performance analysis of highly distributed systems using modelling and simulation techniques.
 8. Verification and validation of distributed systems.
+
+Authors: Raúl Dorado Pulido & Javier Mendoza García
